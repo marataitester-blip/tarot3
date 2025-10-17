@@ -1,0 +1,7 @@
+{
+  "name": "Tarot: Hero's Journey",
+  "description": "An interactive, bilingual website for the 'Hero's Journey' Tarot deck, featuring AI-powered readings, a full card encyclopedia, and a unique personality test to discover your personal Arcana.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
